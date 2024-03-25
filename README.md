@@ -1,5 +1,6 @@
 # 💫 About Me:
-Ciao! Sono Antonino, ho 20 anni e sono un Java Back-End Developer! 💻
+Ciao! Sono Antonino, ho 20 anni e sono un Java Developer! 💻
+Currently working on personal projects!
 
 
 ## 🌐 Socials:
@@ -13,6 +14,3 @@ Ciao! Sono Antonino, ho 20 anni e sono un Java Back-End Developer! 💻
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=AntoninoPagana&icon=0&color=0)](https://visitcount.itsvg.in)
