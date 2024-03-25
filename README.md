@@ -1,7 +1,7 @@
 # 💫 About Me:
-Ciao! Sono Antonino, ho 20 anni e sono un Java Developer! 💻
-Currently working on personal projects!
-
+Hi! My name is Antonino and i am a Java Developer! 💻 <br>
+My main hobbies are Sports and playing Videogames 🕹️ <br>
+Currently working on my personal projects!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/antoninopagana) 
