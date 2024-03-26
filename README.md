@@ -4,13 +4,9 @@ My main hobbies are Sports and playing Videogames 🕹️ <br>
 Currently working on project [EssenceLab](https://github.com/RobertoFavaro/essenceLabTeam3)! <br> <br>
 Develhope Student 🌟
 
-<br>
-
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=antoninopagana&label=Profile%20views&color=0e75b6&style=flat"
     alt="antoninopagana" /> 
   </p>
-
-<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoninopagana/) 
