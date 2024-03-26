@@ -1,7 +1,8 @@
 # 💫 About Me:
 Hi! My name is Antonino and i am a Java Developer! 💻 <br>
 My main hobbies are Sports and playing Videogames 🕹️ <br>
-Currently working on project [EssenceLab](https://github.com/RobertoFavaro/essenceLabTeam3)!
+Currently working on project [EssenceLab](https://github.com/RobertoFavaro/essenceLabTeam3)! <br> <br>
+Develhope Student 🌟
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoninopagana/) 
