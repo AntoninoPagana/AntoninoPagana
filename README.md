@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! My name is Antonino and i am a Java Developer! 💻 <br>
 My main hobbies are Sports and playing Videogames 🕹️ <br>
-Currently working on project [EssenceLab](https://github.com/RobertoFavaro/essenceLabTeam3)! <br> <br>
+Currently working on project [EssenceLab](https://github.com/RobertoFavaro/essenceLabTeam3.git)! <br> <br>
 Develhope Student 🌟
 
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=antoninopagana&label=Profile%20views&color=0e75b6&style=flat"
