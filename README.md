@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Antonino and i am a Java Developer! 💻 <br>
+Hi! My name is Antonino and i am a Developer! 💻 <br>
 Last work [EssenceLab](https://github.com/RobertoFavaro/essenceLabTeam3.git)! <br> <br>
 Develhope Student 🌟
 
