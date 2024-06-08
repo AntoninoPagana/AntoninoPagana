@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi! My name is Antonino and i am a Developer! 💻 <br>
-Last work [EssenceLab](https://github.com/RobertoFavaro/essenceLabTeam3.git)! <br> <br>
+Last teamwork [EssenceLab](https://github.com/RobertoFavaro/essenceLabTeam3.git)! <br> <br>
 Develhope Student 🌟
 
 <p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=antoninopagana&label=Profile%20views&color=0e75b6&style=flat"
